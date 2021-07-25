@@ -3,7 +3,7 @@ Configs are for reference only, **please** don't complain if your printer explod
 
 ## da list
 * ### Artillery Sidewinder X1 (clean for reference and current)
-  * BigTreeTech  SKR 1.4
+  * BigTreeTech  SKR 1.3
   * TMC2209
   * BLTouch 
   * Trianglelab Matrix 
